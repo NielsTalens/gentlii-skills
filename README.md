@@ -1,4 +1,4 @@
-Gentlii Skills
+# Gentlii Skills
 
 Gentlii Skills is a local-first, AI-powered toolkit for making  product management easier. It helps product teams define their products, validate feature ideas, and make informed decisions based on strategy, user needs, and available evidence.
 
@@ -26,7 +26,7 @@ It supports:
 - Identifying the user problem a feature aims to solve.
 - Evaluating expected user and business value.
 - Identifying assumptions, risks, and trade-offs.
-- Providing actionable recommendations: Proceed, Refine, Validate First, or Reject.
+- Providing actionable recommendations: Approve, Revise, or Reject.
 
 ## Core Principles
 
